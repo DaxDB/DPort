@@ -1,4 +1,4 @@
 function Home() {
-    return <div>Home</div>
+    return <div>Home 1</div>
 }
-export default Home
+export default Homenpm
